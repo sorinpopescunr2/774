@@ -1,2 +1,2 @@
-FROM mysql:1258472
+FROM mysql:latest
 
