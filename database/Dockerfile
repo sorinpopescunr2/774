@@ -1,1 +1,1 @@
-FROM mysql:1212121
+FROM mysql:latest
