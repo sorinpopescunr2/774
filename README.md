@@ -1,2 +1,2 @@
 # demo-eaas outside
-#test auto-update
+#test auto-update build failed
