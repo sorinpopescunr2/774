@@ -1,2 +1,2 @@
-FROM mysql:5.7asd
+FROM mysql:5.7
 
