@@ -1,2 +1,2 @@
-FROM mysql:qweqw5.7
+FROM mysql:5.7
 
