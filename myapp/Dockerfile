@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM ngin13123123
 
 WORKDIR /var/www
 RUN mkdir -p "/var/log/nginx"
