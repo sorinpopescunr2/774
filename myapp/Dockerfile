@@ -1,5 +1,4 @@
-FROM nginx:alpine
-
+FROM nginx:alpineerghergerh
 WORKDIR /var/www
 RUN mkdir -p "/var/log/nginx"
 RUN chmod -R a+w /var/log/nginx
